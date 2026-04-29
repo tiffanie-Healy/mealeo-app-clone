@@ -1,3 +1,3 @@
 <h2 style="text-align:center">Mealeo App Clone</h2><br/><br/>
- 
- ![mealeo app clone](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/tiffanie/mealeo%20app%20clone.webp) <br/><br/>The mealeo app clone frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/tiffanie-mealeo-app-clone" target="_blank">click here</a>.
+  
+  ![mealeo app clone](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/tiffanie/mealeo%20app%20clone.webp) <br/><br/>The mealeo app clone frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-mealeo-app-clone" target="_blank">click here</a>.
